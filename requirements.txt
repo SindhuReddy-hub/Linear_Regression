@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+sklearn
+fastapi==0.78.0
+-e .
